@@ -39,4 +39,4 @@
 - MySQL
 - Git & GitHub
 
-## 👉 [Click here](https://drive.google.com/file/d/138zucf-GfcXLQAQPi_ETVUfblwAsP4Ll/view) to go through a detailed explanation of this application.
+
